@@ -11,8 +11,8 @@ CapitaVault is an app providing a clear, responsive, and robust platform to stor
 - **Libraries:** TanStack Query, React Router
 
 ## Favourite Projects
-- [CR-Site](#https://github.com/abe-calder/CR-Site) 
-- [CapitaVault](#https://github.com/abe-calder/CapitaVault) 
+- [CR-Site](https://github.com/abe-calder/CR-Site) 
+- [CapitaVault](https://github.com/abe-calder/CapitaVault) 
 
 ## Find Me Online
 - [LinkedIn](https://www.linkedin.com/in/abe-calder/)
