@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there I'm Abe Calder
 
-<!--
-**abe-calder/abe-calder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Web Developer** passionate about building robust, responsive applications and learning as much as I can.
 
-Here are some ideas to get you started:
+## Current Project: CapitaVault
+CapitaVault is an app providing a clear, responsive, and robust platform to store assets. It integrates Polygon's API and an fxrates API to display asset values and data in real time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top Skills
+- **Languages & Frameworks:** TypeScript, JavaScript, React, HTML, CSS, Express
+- **Database:** Knex (SQLite)
+- **Libraries:** TanStack Query, React Router
+
+## Favourite Projects
+- [CR-Site](#) <!-- Add repo link if public -->
+- [CapitaVault](#) <!-- Add repo link if public -->
+
+## Find Me Online
+- [LinkedIn](https://www.linkedin.com/in/abe-calder/)
+- [Portfolio Website](https://abecalder.onrender.com/)
+
+## Fun Facts
+- I enjoy walking my dog 
+- I love coffee 
+- I like videogames 
+- Most of all, I love building apps and learning as much as I can!
+
+---
+
+Thanks for visiting my profile! Let's connect and build something awesome.
